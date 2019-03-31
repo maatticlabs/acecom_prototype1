@@ -350,7 +350,7 @@ zoom:1;
 {
 float:left;
 }
-.blog-wp .nav.ttr_menu_items  li:hover  li:hover   li:hover a.subchild
+/*.blog-wp .nav.ttr_menu_items  li:hover  li:hover   li:hover a.subchild*/
 
 {
 }
@@ -1609,7 +1609,7 @@ top:-9999px;
 background-color:#1C80DD;
 background:rgba(28,128,221,1);
 background-clip:padding-box;}
-.nos-actions-copy .nav.ttr_menu_items  li:hover  li:hover   li:hover a.subchild
+/*.nos-actions-copy .nav.ttr_menu_items  li:hover  li:hover   li:hover a.subchild
 
 {
 }
@@ -2709,7 +2709,7 @@ cursor: pointer;
 padding-top:0px;
 padding-bottom:0px;
 }
-.nos-actions-copy .nav.ttr_vmenu_items  li.active:hover a.ttr_vmenu_items_parent_link_active
+/*.nos-actions-copy .nav.ttr_vmenu_items  li.active:hover a.ttr_vmenu_items_parent_link_active
 {
 }
 .nos-actions-copy .nav.ttr_vmenu_items  li.active:hover a.ttr_vmenu_items_parent_link_active_arrow
@@ -11510,7 +11510,7 @@ text-align:left;
 }
 #user-login-form ul li
 {
-background:none!important;
+background:blue!important;
 text-align:left;
 padding-left:0!important;
 margin-left:0!important;
