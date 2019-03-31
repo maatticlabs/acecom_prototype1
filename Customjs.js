@@ -120,7 +120,7 @@ return "open";
 }
 });
 WebFontConfig = {
-google: { families: [ 'Open+Sans:700','Fredoka+One','Open+Sans:600','Roboto+Slab','Open+Sans','Open+Sans:800','Rosario','Fredoka+One:700'] }
+google: { families: [ 'Open+Sans:700','Open+Sans:600','Roboto+Slab','Roboto+Slab:700','Fredoka+One','Open+Sans','Fredoka+One:800','Open+Sans:800','Rosario','Fredoka+One:700'] }
 };
 (function() {
 var wf = document.createElement('script');
